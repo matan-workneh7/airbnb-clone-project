@@ -17,3 +17,23 @@ The Airbnb Clone Project dives deep into full-stack development, enabling learne
 - **API Layer:** GraphQL  
 - **Containerization:** Docker  
 - **CI/CD:** GitHub Actions  
+
+## Team Roles
+
+### Backend Developer
+Focuses on building the server-side logic, APIs, and integrating with databases. Responsible for ensuring code quality, scalability, and security.  
+
+### Database Administrator (DBA)
+Manages database design, optimization, and maintenance. Ensures data integrity, performance, and backups are in place.  
+
+### Frontend Developer
+Builds the user interface and ensures smooth user experience. Responsible for integrating frontend components with backend APIs.  
+
+### DevOps Engineer
+Sets up and maintains CI/CD pipelines, containerization, and cloud infrastructure. Responsible for monitoring system reliability and deployments.  
+
+### Project Manager
+Coordinates tasks, timelines, and communication across the team. Ensures project goals and deadlines are met.  
+
+### QA Engineer
+Tests features and validates functionality. Ensures the application is bug-free, reliable, and secure before release.  

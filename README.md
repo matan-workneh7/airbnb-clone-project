@@ -37,3 +37,27 @@ Coordinates tasks, timelines, and communication across the team. Ensures project
 
 ### QA Engineer
 Tests features and validates functionality. Ensures the application is bug-free, reliable, and secure before release.  
+
+## Database Design
+
+### Users
+- Fields: id, name, email, password, role  
+- A user can own multiple properties and make multiple bookings.  
+
+### Properties
+- Fields: id, title, description, location, price_per_night  
+- Each property belongs to one user (the host).  
+- A property can have many bookings and many reviews.  
+
+### Bookings
+- Fields: id, user_id, property_id, start_date, end_date, status  
+- A booking belongs to one user and one property.  
+
+### Payments
+- Fields: id, booking_id, amount, status, payment_date  
+- Each payment is linked to one booking.  
+
+### Reviews
+- Fields: id, user_id, property_id, rating, comment  
+- A review is made by a user for a property.  
+

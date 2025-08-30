@@ -11,12 +11,12 @@ The Airbnb Clone Project dives deep into full-stack development, enabling learne
 - Strengthen the ability to document and plan complex software projects effectively  
 - Develop an understanding of integrating technologies like Django, MySQL, and GraphQL in a unified ecosystem  
 
-## Technology Stack
-- **Backend Framework:** Django - for providing developers with pre-built code, tools, and structures for building the server-side
-- **Database:** MySQL  - for providing a structured and efficient way to organize information within a database. 
-- **API Layer:** GraphQL  - for allowing clients to request specific data from an API, rather than receiving a predefined set of data. 
-- **Containerization:** Docker  - for simplifying the process of building, deploying, and running applications using containers.
-- **CI/CD:** GitHub Actions  - for automating software development workflows within your GitHub repositories.
+## Tech Stack
+- **Backend Framework:** Django 
+- **Database:** MySQL  
+- **API Layer:** GraphQL  
+- **Containerization:** Docker  
+- **CI/CD:** GitHub Actions  
 
 ## Team Roles
 
@@ -37,6 +37,13 @@ Coordinates tasks, timelines, and communication across the team. Ensures project
 
 ### QA Engineer
 Tests features and validates functionality. Ensures the application is bug-free, reliable, and secure before release.  
+
+## Technology Stack
+- **Backend Framework:** Django - for providing developers with pre-built code, tools, and structures for building the server-side
+- **Database:** MySQL  - for providing a structured and efficient way to organize information within a database. 
+- **API Layer:** GraphQL  - for allowing clients to request specific data from an API, rather than receiving a predefined set of data. 
+- **Containerization:** Docker  - for simplifying the process of building, deploying, and running applications using containers.
+- **CI/CD:** GitHub Actions  - for automating software development workflows within your GitHub repositories.
 
 ## Database Design
 

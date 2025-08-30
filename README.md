@@ -11,7 +11,7 @@ The Airbnb Clone Project dives deep into full-stack development, enabling learne
 - Strengthen the ability to document and plan complex software projects effectively  
 - Develop an understanding of integrating technologies like Django, MySQL, and GraphQL in a unified ecosystem  
 
-## Tech Stack
+## Technology Stack
 - **Backend Framework:** Django - for providing developers with pre-built code, tools, and structures for building the server-side
 - **Database:** MySQL  - for providing a structured and efficient way to organize information within a database. 
 - **API Layer:** GraphQL  - for allowing clients to request specific data from an API, rather than receiving a predefined set of data. 
